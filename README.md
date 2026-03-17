@@ -40,3 +40,12 @@ Open the Excel file
 Use slicers on the right to filter the dashboard
 
 KPIs and charts update automatically based on selections
+## Dashboard Preview
+
+![Full Dashboard](./dashboard_full.png)
+
+![Filtered Dashboard](./dashboard_filtered.png)
+
+## Files
+- [Excel Dashboard (.xlsx)](./revenue-billing-kpi-dashboard-excel.xlsx)
+- [PDF Export](./revenue-billing-kpi-dashboard-excel.pdf)
